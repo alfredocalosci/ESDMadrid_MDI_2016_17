@@ -38,7 +38,7 @@ void draw() {
   background(0);
 
   // You don't need to display it to analyze it!
-  image(video, 0, 0);
+  // image(video, 0, 0);
 
 
   loadPixels();
